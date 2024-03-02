@@ -20,7 +20,7 @@ uint64_t chesl = 2,cont = 1;
     while(cont<n){
         chesl+=1;
     if(checkPrime(chesl)){
-        cont+=1 ;
+        cont+=1;
         }
     }
     return chesl;
