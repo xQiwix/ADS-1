@@ -24,7 +24,6 @@ uint64_t chesl = 2,cont = 1;
         }
     }
     return chesl;
-
 }
 
 uint64_t nextPrime(uint64_t value) {
